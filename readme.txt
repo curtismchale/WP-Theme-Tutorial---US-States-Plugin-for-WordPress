@@ -1,4 +1,4 @@
-=== Coupons for Gravity Forms ===
+=== WP Theme Tutorial - US States ===
 
 Contributors: Curtis McHale
 Tags: gravity forms, coupons
