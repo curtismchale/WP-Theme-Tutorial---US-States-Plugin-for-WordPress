@@ -161,6 +161,7 @@ function theme_t_wp_get_us_states(){
         '55' => array( 'name' => 'West Virginia', 'short' => 'WV' ),
         '56' => array( 'name' => 'Wisconsin', 'short' => 'WI' ),
         '57' => array( 'name' => 'Wyoming', 'short' => 'WY' ),
+        '57' => array( 'name' => 'Alabama', 'short' => 'AL' ),
     );
 
     return $states;
